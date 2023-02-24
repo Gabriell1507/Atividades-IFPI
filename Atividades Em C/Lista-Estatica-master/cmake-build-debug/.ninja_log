@@ -1,0 +1,16 @@
+# ninja log v5
+1	87	6913467902080965	CMakeFiles/ListaEstatica.dir/main.c.obj	7e4a20d5da1f1e8
+99	228	6913467903445920	ListaEstatica.exe	849434aadb2baba
+2	88	6913469564374798	CMakeFiles/ListaEstatica.dir/main.c.obj	7e4a20d5da1f1e8
+7	108	6913469564584555	CMakeFiles/ListaEstatica.dir/lista.c.obj	621a7d792fc0bf26
+108	207	6913469565521107	ListaEstatica.exe	9260ae00fc4ee4a0
+2	88	6913475753532139	CMakeFiles/ListaEstatica.dir/main.c.obj	7e4a20d5da1f1e8
+2	91	6913476932311900	CMakeFiles/ListaEstatica.dir/lista.c.obj	621a7d792fc0bf26
+2	91	6913477906559899	CMakeFiles/ListaEstatica.dir/lista.c.obj	621a7d792fc0bf26
+92	185	6913477907437347	ListaEstatica.exe	9260ae00fc4ee4a0
+2	86	6913481186495701	CMakeFiles/ListaEstatica.dir/main.c.obj	7e4a20d5da1f1e8
+7	94	6913481186571254	CMakeFiles/ListaEstatica.dir/lista.c.obj	621a7d792fc0bf26
+94	185	6913481187441872	ListaEstatica.exe	9260ae00fc4ee4a0
+3	105	6918018050754037	CMakeFiles/ListaEstatica.dir/main.c.obj	7e4a20d5da1f1e8
+9	121	6918018050925115	CMakeFiles/ListaEstatica.dir/lista.c.obj	621a7d792fc0bf26
+121	335	6918018053016388	ListaEstatica.exe	9260ae00fc4ee4a0

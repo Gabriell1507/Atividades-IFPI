@@ -1,0 +1,9 @@
+# ninja log v5
+1	94	6914301006357370	CMakeFiles/ListaDuplamenteEncadeada.dir/main.c.obj	2ce3df9b6d965dba
+96	229	6914301007649128	ListaDuplamenteEncadeada.exe	d7a3f9aad74a0240
+2	93	6914306355829227	CMakeFiles/ListaDuplamenteEncadeada.dir/main.c.obj	2ce3df9b6d965dba
+1	78	6914306531009836	CMakeFiles/ListaDuplamenteEncadeada.dir/listaDuplamenteEncadeada.c.obj	152139de7dacd78a
+78	189	6914306532090239	ListaDuplamenteEncadeada.exe	72d5fa63bc435db1
+2	76	6914307834050423	CMakeFiles/ListaDuplamenteEncadeada.dir/main.c.obj	2ce3df9b6d965dba
+7	81	6914307834107812	CMakeFiles/ListaDuplamenteEncadeada.dir/listaDuplamenteEncadeada.c.obj	152139de7dacd78a
+81	166	6914307834888880	ListaDuplamenteEncadeada.exe	72d5fa63bc435db1

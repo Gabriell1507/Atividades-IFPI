@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/ListaEstatica/cmake-build-debug/CMakeFiles/ListaEstatica.dir
+C:/Users/gabri/CLionProjects/ListaEstatica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/ListaEstatica/cmake-build-debug/CMakeFiles/rebuild_cache.dir

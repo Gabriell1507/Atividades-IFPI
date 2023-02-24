@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="VIEW.frmPrincipalPoupancaVIEW">
+  <grid id="27dc6" binding="painelPrincipal" layout-manager="GridLayoutManager" row-count="8" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="10" vgap="10">
+    <margin top="20" left="60" bottom="20" right="60"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="9c8d0" class="javax.swing.JButton" binding="btnTransferencia">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="TRANSFERENCIA"/>
+        </properties>
+      </component>
+      <component id="5c785" class="javax.swing.JButton" binding="btnEncerrar">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="SAIR DO APLICATIVO"/>
+        </properties>
+      </component>
+      <component id="83d40" class="javax.swing.JButton" binding="btnMostrarDadosConta">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="MOSTRAR DADOS DA CONTA"/>
+        </properties>
+      </component>
+      <component id="52b2a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Bem vindo (a)"/>
+        </properties>
+      </component>
+      <component id="57931" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Saldo:"/>
+        </properties>
+      </component>
+      <component id="d0f92" class="javax.swing.JLabel" binding="txtSaldo">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="de50e" class="javax.swing.JLabel" binding="txtNomeUsuario">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="8bb23" class="javax.swing.JButton" binding="btnAtualizar">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="12" style="0"/>
+          <text value="Atualizar"/>
+        </properties>
+      </component>
+      <component id="dbfdf" class="javax.swing.JButton" binding="btnSacar">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="SACAR"/>
+        </properties>
+      </component>
+      <component id="1fcf2" class="javax.swing.JButton" binding="btnDepositar">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="DEPOSITAR"/>
+        </properties>
+      </component>
+      <component id="9b248" class="javax.swing.JButton" binding="btnSairConta">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="SAIR DA CONTA"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

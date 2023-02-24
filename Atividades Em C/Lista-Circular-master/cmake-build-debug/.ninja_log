@@ -1,0 +1,4 @@
+# ninja log v5
+0	90	6915334670937058	CMakeFiles/ListaCircular.dir/main.c.obj	1bc995ac7aae693e
+6	102	6915334671071779	CMakeFiles/ListaCircular.dir/listacircular.c.obj	fdde3f9f363e570d
+102	243	6915334672429623	ListaCircular.exe	804c0ddcd6d845d2

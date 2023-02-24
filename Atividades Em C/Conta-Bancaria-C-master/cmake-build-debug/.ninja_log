@@ -1,0 +1,17 @@
+# ninja log v5
+0	70	6913488841559467	CMakeFiles/ContaBancaria.dir/main.c.obj	3b580e7ed2d310a2
+5	80	6913488841672360	CMakeFiles/ContaBancaria.dir/conta.c.obj	d59c4b7b6c6a4d3b
+80	155	6913488842372617	ContaBancaria.exe	f525e6e1b02a38b1
+2	72	6913490261424310	CMakeFiles/ContaBancaria.dir/main.c.obj	3b580e7ed2d310a2
+72	153	6913490262204704	ContaBancaria.exe	f525e6e1b02a38b1
+2	64	6913490858382334	CMakeFiles/ContaBancaria.dir/main.c.obj	3b580e7ed2d310a2
+65	140	6913490859103553	ContaBancaria.exe	f525e6e1b02a38b1
+1	68	6913491170644192	CMakeFiles/ContaBancaria.dir/conta.c.obj	d59c4b7b6c6a4d3b
+68	145	6913491171369512	ContaBancaria.exe	f525e6e1b02a38b1
+3	60	6913491297892863	CMakeFiles/ContaBancaria.dir/main.c.obj	3b580e7ed2d310a2
+61	137	6913491298615108	ContaBancaria.exe	f525e6e1b02a38b1
+3	62	6913491738884898	CMakeFiles/ContaBancaria.dir/main.c.obj	3b580e7ed2d310a2
+62	137	6913491739602660	ContaBancaria.exe	f525e6e1b02a38b1
+2	76	6913492234660247	CMakeFiles/ContaBancaria.dir/main.c.obj	3b580e7ed2d310a2
+7	83	6913492234740940	CMakeFiles/ContaBancaria.dir/conta.c.obj	d59c4b7b6c6a4d3b
+83	159	6913492235459217	ContaBancaria.exe	f525e6e1b02a38b1

@@ -1,0 +1,14 @@
+# ninja log v5
+6	81	6924066636149675	CMakeFiles/Atividades_dia_13.dir/Calculadora_Pos_Fixada/CalculadoraPF.c.obj	4ceba1fec6d81e91
+3	97	6924071696219728	CMakeFiles/Atividades_dia_13.dir/Calculadora_Pos_Fixada/main.c.obj	3b88f2aa9051b77c
+1	85	6924063958085346	CMakeFiles/Atividades_dia_13.dir/main.c.obj	fa28e0168657dc0f
+8	91	6924071696146429	CMakeFiles/Atividades_dia_13.dir/CombinacaoDeFilas/main.c.obj	c76874b90ab5de0b
+81	176	6924066637050616	Atividades_dia_13.exe	f33076fee36131c4
+7	88	6924068372127872	CMakeFiles/Atividades_dia_13.dir/CombinacaoDeFilas/CombinacaodeFilias.c.obj	32ee765ac4665e52
+1	149	6924072111988358	build.ninja	6eee550c6ec0b237
+7	72	6924069771629389	CMakeFiles/Atividades_dia_13.dir/CombinacaoDeFilas/combinacao.c.obj	d8e3d2c977cdb8fe
+2	74	6924069771659444	CMakeFiles/Atividades_dia_13.dir/Calculadora_Pos_Fixada/calculadora.c.obj	baa3ddaa6c297129
+11	102	6924071696275596	CMakeFiles/Atividades_dia_13.dir/ConversorDecimalParaBinario/main.c.obj	689c40f3dfbe0485
+16	110	6924071696382310	CMakeFiles/Atividades_dia_13.dir/ConversorDecimalParaBinario/DeciToBin.c.obj	d6885784dd038d0
+7	77	6924073379300221	CMakeFiles/Atividades_dia_13.dir/AgendaTelefonica/main.c.obj	de3cf3f49234101e
+2	78	6924073379311045	CMakeFiles/Atividades_dia_13.dir/AgendaTelefonica/agenda.c.obj	a60871c9cd11641e

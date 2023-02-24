@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/Atividades dia 13/cmake-build-debug/CMakeFiles/Atividades_dia_13.dir
+C:/Users/gabri/CLionProjects/Atividades dia 13/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/Atividades dia 13/cmake-build-debug/CMakeFiles/rebuild_cache.dir

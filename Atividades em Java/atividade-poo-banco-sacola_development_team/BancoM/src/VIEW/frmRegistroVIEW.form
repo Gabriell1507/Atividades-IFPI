@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="VIEW.frmRegistroVIEW">
+  <grid id="27dc6" binding="registerPanel" layout-manager="GridLayoutManager" row-count="17" column-count="7" same-size-horizontally="false" same-size-vertically="false" hgap="10" vgap="10">
+    <margin top="20" left="20" bottom="20" right="20"/>
+    <constraints>
+      <xy x="20" y="20" width="1069" height="763"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="68d0b" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="7" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Registre-se"/>
+        </properties>
+      </component>
+      <component id="4d21a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Nome:"/>
+        </properties>
+      </component>
+      <component id="cab1" class="javax.swing.JTextField" binding="txtNome">
+        <constraints>
+          <grid row="1" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+        </properties>
+      </component>
+      <component id="45d6d" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="CPF:"/>
+        </properties>
+      </component>
+      <component id="40a03" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Data de Nascimento:"/>
+        </properties>
+      </component>
+      <component id="14d1" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="14" column="0" row-span="1" col-span="5" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Nova senha:"/>
+        </properties>
+      </component>
+      <component id="ef822" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="15" column="0" row-span="1" col-span="5" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Confirme sua senha:"/>
+        </properties>
+      </component>
+      <component id="f35b8" class="javax.swing.JButton" binding="btnRegistrar">
+        <constraints>
+          <grid row="16" column="0" row-span="1" col-span="5" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Registrar"/>
+        </properties>
+      </component>
+      <component id="20eef" class="javax.swing.JButton" binding="btnCancelar">
+        <constraints>
+          <grid row="16" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Cancelar"/>
+        </properties>
+      </component>
+      <hspacer id="2bd19">
+        <constraints>
+          <grid row="16" column="5" row-span="1" col-span="1" vsize-policy="1" hsize-policy="7" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="20" height="10"/>
+            <preferred-size width="20" height="20"/>
+            <maximum-size width="20" height="20"/>
+          </grid>
+        </constraints>
+      </hspacer>
+      <component id="a216a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="13" column="0" row-span="1" col-span="5" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Usuário:"/>
+        </properties>
+      </component>
+      <component id="5cc60" class="javax.swing.JTextField" binding="txtNovoUsuario">
+        <constraints>
+          <grid row="13" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+        </properties>
+      </component>
+      <component id="bffb1" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="5" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Rua:"/>
+        </properties>
+      </component>
+      <component id="8e4a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="7" column="0" row-span="3" col-span="5" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <enabled value="true"/>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="CEP:"/>
+        </properties>
+      </component>
+      <component id="7a148" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="10" column="0" row-span="1" col-span="5" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <enabled value="true"/>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Bairro:"/>
+        </properties>
+      </component>
+      <component id="1528b" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="11" column="0" row-span="1" col-span="5" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <enabled value="true"/>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Cidade:"/>
+        </properties>
+      </component>
+      <component id="afc9c" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="12" column="0" row-span="1" col-span="4" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <enabled value="true"/>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Estado:"/>
+        </properties>
+      </component>
+      <component id="c08ac" class="javax.swing.JTextField" binding="txtBairro">
+        <constraints>
+          <grid row="10" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="100" height="20"/>
+          </grid>
+        </constraints>
+        <properties>
+          <enabled value="true"/>
+          <font name="Unispace" size="18" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="10c3b" class="javax.swing.JTextField" binding="txtCidade">
+        <constraints>
+          <grid row="11" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="100" height="20"/>
+          </grid>
+        </constraints>
+        <properties>
+          <enabled value="true"/>
+          <font name="Unispace" size="18" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="1f25b" class="javax.swing.JTextField" binding="txtUF">
+        <constraints>
+          <grid row="12" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="100" height="20"/>
+          </grid>
+        </constraints>
+        <properties>
+          <enabled value="true"/>
+          <font name="Unispace" size="18" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="23aee" class="javax.swing.JTextField" binding="txtLogradouro">
+        <constraints>
+          <grid row="5" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="16" style="1"/>
+        </properties>
+      </component>
+      <component id="eaf53" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Endereço"/>
+        </properties>
+      </component>
+      <component id="92863" class="javax.swing.JFormattedTextField" binding="formattedTxtDataNascimento">
+        <constraints>
+          <grid row="3" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+        </properties>
+      </component>
+      <component id="afbcf" class="javax.swing.JFormattedTextField" binding="formattedTxtCpf">
+        <constraints>
+          <grid row="2" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="8490e" class="javax.swing.JFormattedTextField" binding="formattedTxtCep">
+        <constraints>
+          <grid row="7" column="5" row-span="3" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <enabled value="true"/>
+          <font name="Unispace" size="18" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="76e0d" class="javax.swing.JPasswordField" binding="txtSenha">
+        <constraints>
+          <grid row="14" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+        </properties>
+      </component>
+      <component id="f0cd" class="javax.swing.JPasswordField" binding="txtSenhaConfirma">
+        <constraints>
+          <grid row="15" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+        </properties>
+      </component>
+      <component id="f3cae" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+          <text value="Número:"/>
+        </properties>
+      </component>
+      <component id="f4846" class="javax.swing.JTextField" binding="txtNumero">
+        <constraints>
+          <grid row="6" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Unispace" size="18" style="1"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

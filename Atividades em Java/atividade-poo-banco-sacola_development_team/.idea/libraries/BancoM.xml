@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BancoM">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BancoM/out/artifacts/BancoM_jar/BancoM.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
